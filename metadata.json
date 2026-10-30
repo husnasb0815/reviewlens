@@ -1,0 +1,6 @@
+{
+  "name": "ReviewLens - AI Customer Feedback Analysis Platform",
+  "description": "AI-powered customer feedback analysis platform that turns customer reviews into sentiment breakdowns, aspect analysis, recurring complaints, customer expectations, and actionable recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
